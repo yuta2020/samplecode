@@ -253,7 +253,7 @@ body.noscroll {
 .fv__wrapper {
   height: 86.5%;
   width: 76.4%;
-  background-image: url(../images/home_pc/the-honest-company-uM-WXMr0YXc-unsplash.png);
+  background-image: url(images/home_pc/the-honest-company-uM-WXMr0YXc-unsplash.png);
   background-size: cover;
   background-position: center 0;
   position: relative;
@@ -323,7 +323,7 @@ body.noscroll {
 }
 
 .about__container {
-  background-image: url(../images/home_pc/skyline-4582510_1920.png);
+  background-image: url(images/home_pc/skyline-4582510_1920.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
